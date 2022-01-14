@@ -1,7 +1,10 @@
+import Navbar from "./components/Navbar";
+
 function App() {
   return (
-    <h1>Main page</h1>
+    <Navbar/>
   );
 }
 
 export default App;
+//Exporta a função APP para o arquivo principal: index.tsx

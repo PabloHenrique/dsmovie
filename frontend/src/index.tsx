@@ -4,6 +4,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import './index.css';
 import App from './App';
 
+//Chamar root do index.html
 ReactDOM.render(
   <React.StrictMode>
     <App />
